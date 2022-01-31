@@ -1,0 +1,9 @@
+:~  title+'upfs'
+    info+'an ipfs bridge'
+    color+0xc6.8c6b
+    site+/apps/upfs
+    base+'upfs'
+    version+[0 0 1]
+    website+'https://dalten.org/'
+    license+'Get Rekt'
+==
